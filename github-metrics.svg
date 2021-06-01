@@ -1403,7 +1403,7 @@
                     <rect mask="url(#languages-bar)" x="0" y="0" width="383.19465323656283" height="8" fill="#b07219"/>
                     <rect mask="url(#languages-bar)" x="383.19465323656283" y="0" width="37.08298947687723" height="8" fill="#3572A5"/>
                     <rect mask="url(#languages-bar)" x="420.27764271344006" y="0" width="24.781073099793463" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="445.0587158132335" y="0" width="11.034301633113712" height="8" fill="#2c3e50"/>
+                    <rect mask="url(#languages-bar)" x="445.0587158132335" y="0" width="11.034301633113712" height="8" fill="#41b883"/>
                     <rect mask="url(#languages-bar)" x="456.09301744634723" y="0" width="2.6714301008596038" height="8" fill="#e34c26"/>
                     <rect mask="url(#languages-bar)" x="458.7644475472068" y="0" width="1.125001672815192" height="8" fill="#563d7c"/>
                     <rect mask="url(#languages-bar)" x="459.889449220022" y="0" width="0.05848161910667208" height="8" fill="#C1F12E"/>
@@ -1423,7 +1423,7 @@
                 JavaScript
               </div>
                     <div class="field center no-wrap language">
-                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill="#2c3e50" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/></svg>
+                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill="#41b883" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/></svg>
                 Vue
               </div>
                     <div class="field center no-wrap language">
@@ -1478,7 +1478,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>nextapps-de/winbox</span>
-                                        <span>starred 2 days ago</span>
+                                        <span>starred 3 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -1680,7 +1680,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated Tue, 01 Jun 2021 18:12:42 (timezone Asia/Seoul) with lowlighter/metrics@3.10.0</span>
+                <span>Last updated Tue, 01 Jun 2021 19:53:22 (timezone Asia/Seoul) with lowlighter/metrics@3.10.0</span>
             </footer>
             <div id="metrics-end"></div>
         </div>
