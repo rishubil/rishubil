@@ -1478,7 +1478,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>nhn/tui.editor</span>
-                                        <span>starred 24 hours ago</span>
+                                        <span>starred 1 day ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -1520,7 +1520,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>extrawurst/gitui</span>
-                                        <span>starred 11 days ago</span>
+                                        <span>starred 12 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -1685,7 +1685,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated Sat, 26 Jun 2021 10:48:43 (timezone Asia/Seoul) with lowlighter/metrics@3.10.0</span>
+                <span>Last updated Sat, 26 Jun 2021 11:21:51 (timezone Asia/Seoul) with lowlighter/metrics@3.10.0</span>
             </footer>
             <div id="metrics-end"></div>
         </div>
