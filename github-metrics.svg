@@ -430,7 +430,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>manifestinteractive/mimic-my-voice</span>
-                                        <span>starred 8 hours ago</span>
+                                        <span>starred 9 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">[WIP] Create a Text to Speech Engine using Your Own Voice with Mycroft's Mimic Recording Studio &amp; Coqui Text to Speech.</div>
@@ -680,7 +680,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 10 Jan 2022, 03:12:39 (timezone Asia/Seoul) with lowlighter/metrics@3.17.0</span>
+                <span>Last updated 10 Jan 2022, 04:09:10 (timezone Asia/Seoul) with lowlighter/metrics@3.17.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
