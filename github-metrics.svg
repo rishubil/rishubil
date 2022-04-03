@@ -584,7 +584,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>sbarex/SourceCodeSyntaxHighlight</span>
-                                        <span>starred 10 days ago</span>
+                                        <span>starred 11 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Quick Look extension for highlight source code files on macOS 10.15 and later.</div>
@@ -637,7 +637,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>yandex/gixy</span>
-                                        <span>starred 12 days ago</span>
+                                        <span>starred 13 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Nginx configuration static analyzer</div>
@@ -687,7 +687,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 3 Apr 2022, 09:54:50 (timezone Asia/Seoul) with lowlighter/metrics@3.22.0</span>
+                <span>Last updated 3 Apr 2022, 11:26:48 (timezone Asia/Seoul) with lowlighter/metrics@3.22.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
