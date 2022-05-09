@@ -431,7 +431,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>storybookjs/storybook</span>
-                                        <span>starred 13 hours ago</span>
+                                        <span>starred 14 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">📓 The UI component explorer. Develop, document, &amp; test React, Vue, Angular, Web Components, Ember, Svelte &amp; more!</div>
@@ -484,7 +484,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>windmill-labs/windmill</span>
-                                        <span>starred 13 hours ago</span>
+                                        <span>starred 14 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Windmill is an OSS developer platform to quickly build production-grade multi-steps automations and internal apps from minimal Python and Typescript scripts.</div>
@@ -537,7 +537,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>claabs/epicgames-freegames-node</span>
-                                        <span>starred 13 hours ago</span>
+                                        <span>starred 14 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Automatically login and redeem promotional free games from the Epic Games Store. Handles login and checkout captchas. Runs in Docker.</div>
@@ -590,7 +590,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>gchq/CyberChef</span>
-                                        <span>starred 13 hours ago</span>
+                                        <span>starred 14 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">The Cyber Swiss Army Knife - a web app for encryption, encoding, compression and data analysis</div>
@@ -643,7 +643,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>mikecao/umami</span>
-                                        <span>starred 13 hours ago</span>
+                                        <span>starred 14 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Umami is a simple, fast, privacy-focused alternative to Google Analytics.</div>
@@ -693,7 +693,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 10 May 2022, 02:21:05 (timezone Asia/Seoul) with lowlighter/metrics@3.23.0</span>
+                <span>Last updated 10 May 2022, 03:15:16 (timezone Asia/Seoul) with lowlighter/metrics@3.23.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
