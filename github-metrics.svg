@@ -584,7 +584,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>storybookjs/storybook</span>
-                                        <span>starred 5 days ago</span>
+                                        <span>starred 6 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">📓 The UI component explorer. Develop, document, &amp; test React, Vue, Angular, Web Components, Ember, Svelte &amp; more!</div>
@@ -637,7 +637,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>windmill-labs/windmill</span>
-                                        <span>starred 5 days ago</span>
+                                        <span>starred 6 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Windmill is an OSS developer platform to quickly build production-grade multi-steps automations and internal apps from minimal Python and Typescript scripts.</div>
@@ -687,7 +687,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 15 May 2022, 13:19:50 (timezone Asia/Seoul) with lowlighter/metrics@3.23.0</span>
+                <span>Last updated 15 May 2022, 14:15:32 (timezone Asia/Seoul) with lowlighter/metrics@3.23.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
