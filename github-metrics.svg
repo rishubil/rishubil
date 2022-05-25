@@ -637,7 +637,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>alufers/mitmproxy2swagger</span>
-                                        <span>starred 11 days ago</span>
+                                        <span>starred 12 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Automagically reverse-engineer REST APIs via capturing traffic</div>
@@ -681,7 +681,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 25 May 2022, 19:15:44 (timezone Asia/Seoul) with lowlighter/metrics@3.23.0</span>
+                <span>Last updated 25 May 2022, 20:12:05 (timezone Asia/Seoul) with lowlighter/metrics@3.23.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
