@@ -478,7 +478,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>InterviewReady/system-design-resources</span>
-                                        <span>starred 8 days ago</span>
+                                        <span>starred 9 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">These are the best resources for System Design on the Internet</div>
@@ -525,7 +525,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>dragonflydb/dragonfly</span>
-                                        <span>starred 10 days ago</span>
+                                        <span>starred 11 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A modern replacement for Redis and Memcached</div>
@@ -631,7 +631,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>ferdium/ferdium-app</span>
-                                        <span>starred 14 days ago</span>
+                                        <span>starred 15 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">All your services in one place, built by the community</div>
@@ -681,7 +681,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 11 Jun 2022, 09:56:47 (timezone Asia/Seoul) with lowlighter/metrics@3.24.0</span>
+                <span>Last updated 11 Jun 2022, 11:54:37 (timezone Asia/Seoul) with lowlighter/metrics@3.24.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
