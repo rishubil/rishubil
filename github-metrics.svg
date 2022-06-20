@@ -425,7 +425,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>colinhacks/zod</span>
-                                        <span>starred 10 hours ago</span>
+                                        <span>starred 11 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">TypeScript-first schema validation with static type inference</div>
@@ -478,7 +478,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>pnpm/pnpm</span>
-                                        <span>starred 10 hours ago</span>
+                                        <span>starred 11 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Fast, disk space efficient package manager -- 快速的，节省磁盘空间的包管理工具</div>
@@ -531,7 +531,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>BuilderIO/partytown</span>
-                                        <span>starred 10 hours ago</span>
+                                        <span>starred 11 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Relocate resource intensive third-party scripts off of the main thread and into a web worker. 🎉</div>
@@ -584,7 +584,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>stewdio/q.js</span>
-                                        <span>starred 10 hours ago</span>
+                                        <span>starred 11 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Quantum computing in your browser.</div>
@@ -637,7 +637,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>anatoliygatt/heart-switch</span>
-                                        <span>starred 10 hours ago</span>
+                                        <span>starred 11 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">❤️ A heart-shaped toggle switch component for React.</div>
@@ -687,7 +687,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 20 Jun 2022, 20:13:22 (timezone Asia/Seoul) with lowlighter/metrics@3.24.0</span>
+                <span>Last updated 20 Jun 2022, 21:23:06 (timezone Asia/Seoul) with lowlighter/metrics@3.24.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
