@@ -469,7 +469,7 @@
                                         <span>starred 6 days ago</span>
                                     </div>
                                 </div>
-                                <div class="field description">min(DALL·E) is a fast, minimal implementation of DALL·E Mega in PyTorch</div>
+                                <div class="field description">min(DALL·E) is a fast, minimal port of DALL·E Mega in PyTorch</div>
                                 <div class="field infos">
                                     <div class="language">
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -675,7 +675,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 6 Jul 2022, 02:20:10 (timezone Asia/Seoul) with lowlighter/metrics@3.25.0</span>
+                <span>Last updated 6 Jul 2022, 03:14:06 (timezone Asia/Seoul) with lowlighter/metrics@3.25.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
