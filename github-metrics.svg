@@ -425,7 +425,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>HypothesisWorks/hypothesis</span>
-                                        <span>starred 21 hours ago</span>
+                                        <span>starred 22 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Hypothesis is a powerful, flexible, and easy to use library for property-based testing.</div>
@@ -478,7 +478,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>zesterer/chumsky</span>
-                                        <span>starred 21 hours ago</span>
+                                        <span>starred 22 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A parser library for humans with powerful error recovery.</div>
@@ -669,7 +669,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 13 Jul 2022, 07:12:03 (timezone Asia/Seoul) with lowlighter/metrics@3.26.0</span>
+                <span>Last updated 13 Jul 2022, 08:12:40 (timezone Asia/Seoul) with lowlighter/metrics@3.26.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
