@@ -425,7 +425,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>HypothesisWorks/hypothesis</span>
-                                        <span>starred 2 days ago</span>
+                                        <span>starred 3 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Hypothesis is a powerful, flexible, and easy to use library for property-based testing.</div>
@@ -478,7 +478,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>zesterer/chumsky</span>
-                                        <span>starred 2 days ago</span>
+                                        <span>starred 3 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A parser library for humans with powerful error recovery.</div>
@@ -531,7 +531,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>mtdvio/every-programmer-should-know</span>
-                                        <span>starred 7 days ago</span>
+                                        <span>starred 8 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A collection of (mostly) technical things every software developer should know about</div>
@@ -578,7 +578,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>edoardottt/awesome-hacker-search-engines</span>
-                                        <span>starred 14 days ago</span>
+                                        <span>starred 15 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A list of search engines useful during Penetration testing, vulnerability assessments, red team operations, bug bounty and more</div>
@@ -619,7 +619,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>kuprel/min-dalle</span>
-                                        <span>starred 15 days ago</span>
+                                        <span>starred 16 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">min(DALL·E) is a fast, minimal port of DALL·E Mini to PyTorch</div>
@@ -669,7 +669,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 15 Jul 2022, 10:13:24 (timezone Asia/Seoul) with lowlighter/metrics@3.26.0</span>
+                <span>Last updated 15 Jul 2022, 12:52:12 (timezone Asia/Seoul) with lowlighter/metrics@3.26.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
