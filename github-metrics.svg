@@ -425,7 +425,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>GetPublii/Publii</span>
-                                        <span>starred 1 day ago</span>
+                                        <span>starred 2 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Publii is a desktop-based CMS for Windows, Mac and Linux that makes creating static websites fast and hassle-free, even for beginners.</div>
@@ -478,7 +478,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>rapiz1/catp</span>
-                                        <span>starred 2 days ago</span>
+                                        <span>starred 3 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Print the output of a running process</div>
@@ -687,7 +687,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 31 Jul 2022, 10:09:02 (timezone Asia/Seoul) with lowlighter/metrics@3.26.0</span>
+                <span>Last updated 31 Jul 2022, 12:37:37 (timezone Asia/Seoul) with lowlighter/metrics@3.26.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
