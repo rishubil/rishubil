@@ -425,7 +425,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>plateaukao/einkbro</span>
-                                        <span>starred 2 days ago</span>
+                                        <span>starred 3 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">An Android web browser based on webview, which is specialized for E-Ink device.</div>
@@ -478,7 +478,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>torvalds/linux</span>
-                                        <span>starred 2 days ago</span>
+                                        <span>starred 3 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Linux kernel source tree</div>
@@ -531,7 +531,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>kentjhall/horizon-linux</span>
-                                        <span>starred 2 days ago</span>
+                                        <span>starred 3 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">arm64 Linux patched to run programs for the Nintendo Switch’s Horizon OS</div>
@@ -676,7 +676,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 20 Aug 2022, 13:27:54 (timezone Asia/Seoul) with lowlighter/metrics@3.27.0</span>
+                <span>Last updated 20 Aug 2022, 14:14:49 (timezone Asia/Seoul) with lowlighter/metrics@3.27.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
