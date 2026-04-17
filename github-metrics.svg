@@ -425,7 +425,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>kreuzberg-dev/tree-sitter-language-pack</span>
-                                        <span>starred 10 days ago</span>
+                                        <span>starred 11 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Comprehensive tree-sitter grammar compilation with polyglot bindings — Rust, Python, Node.js, Go,   Java, Ruby, Elixir, PHP, C#, WASM, and CLI. 305+ languages.</div>
@@ -681,7 +681,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 17 Apr 2026, 21:19:21 (timezone Asia/Seoul) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 17 Apr 2026, 22:32:05 (timezone Asia/Seoul) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
