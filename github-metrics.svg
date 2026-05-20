@@ -425,7 +425,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>mohebifar/tooscut</span>
-                                        <span>starred 1 hour ago</span>
+                                        <span>starred 2 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Professional video editing, right in your browser. Made with Rust, WebGPU, WASM, and Tanstack Start.</div>
@@ -478,7 +478,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>SimonZeng7108/efficientsam3</span>
-                                        <span>starred 4 days ago</span>
+                                        <span>starred 5 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">EfficientSAM3 compresses SAM3 into lightweight, edge-friendly models via progressive knowledge distillation for fast promptable concept segmentation and tracking.</div>
@@ -632,7 +632,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>vercel-labs/zero-native</span>
-                                        <span>starred 7 days ago</span>
+                                        <span>starred 8 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Build desktop + mobile apps with Zig and web UI</div>
@@ -682,7 +682,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 20 May 2026, 10:41:21 (timezone Asia/Seoul) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 20 May 2026, 12:06:50 (timezone Asia/Seoul) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
