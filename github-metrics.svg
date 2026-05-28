@@ -425,7 +425,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>microsoft/GW-BASIC</span>
-                                        <span>starred 6 hours ago</span>
+                                        <span>starred 8 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">The original source code of Microsoft GW-BASIC from 1983</div>
@@ -478,7 +478,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>lifthrasiir/wah</span>
-                                        <span>starred 24 hours ago</span>
+                                        <span>starred 1 day ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">WebAssembly interpreter in a Header (WAH)</div>
@@ -631,7 +631,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>nexpress-cms/nexpress</span>
-                                        <span>starred 15 days ago</span>
+                                        <span>starred 16 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Self-hosted Next.js 16 CMS — collections, blocks, themes, plugins. TypeScript + Drizzle + Postgres.</div>
@@ -681,7 +681,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 28 May 2026, 16:19:16 (timezone Asia/Seoul) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 28 May 2026, 18:13:30 (timezone Asia/Seoul) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
