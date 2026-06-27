@@ -531,7 +531,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>thxxx/VTS</span>
-                                        <span>starred 8 days ago</span>
+                                        <span>starred 9 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Voice-to-sound SFX generation from a vocal sketch and text prompt.</div>
@@ -584,7 +584,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>microsoft/GW-BASIC</span>
-                                        <span>starred 29 days ago</span>
+                                        <span>starred May 28 2026</span>
                                     </div>
                                 </div>
                                 <div class="field description">The original source code of Microsoft GW-BASIC from 1983</div>
@@ -687,7 +687,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 27 Jun 2026, 10:39:30 (timezone Asia/Seoul) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 27 Jun 2026, 12:05:45 (timezone Asia/Seoul) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
