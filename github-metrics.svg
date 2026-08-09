@@ -478,7 +478,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>handy-computer/transcribe.cpp</span>
-                                        <span>starred 19 days ago</span>
+                                        <span>starred 20 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">ggml speech-to-text inference for 16+ model families</div>
@@ -687,7 +687,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 10 Aug 2026, 00:24:40 (timezone Asia/Seoul) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 10 Aug 2026, 01:27:42 (timezone Asia/Seoul) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
